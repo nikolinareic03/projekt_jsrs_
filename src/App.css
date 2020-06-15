@@ -1,0 +1,114 @@
+body{
+    background-color: rgb(222, 220, 220);
+    text-align: center;
+    font-family: monospace;
+}
+
+.loodo{
+    color: red;
+    text-decoration-line: none;
+    font-size: 35px;
+    padding: 5px;
+}
+
+.loodo:hover{
+    background-color: white;
+    font-size: 36px;
+}
+
+.modeli{
+    width: 33.3%;
+    height: 660px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.porukica{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.akcija{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.naslovna{
+    margin: 10px auto;
+    padding: 20px;
+    background-color: red;
+}
+
+.povratak{
+    color: black;
+    text-decoration-line: none;
+    font-size: 20px;
+    color: white;
+}
+
+:link{
+    margin: 30px;
+    padding: 5px;
+}
+
+:link:hover{
+    background-color: black;
+}
+
+.tablica{
+    margin: 0px auto;
+    height: 1908px;
+    width: 1500px;
+}
+
+.redovi{
+    height: 477px;
+}
+
+.stupci{
+    width: 381px;
+}
+
+.roba{
+    height: 427px;
+    width: 331px;
+    margin: 10px;
+}
+
+.roba:hover{
+    height: 437px;
+    width: 341px;
+    border: 2px dotted black;
+}
+
+.kosarica{
+    font-family: monospace;
+}
+
+.forme{
+    margin: 10px;
+    border-radius: 8px;
+    border: 2px solid red;
+    height: 25px;
+    width: 250px;
+    font-family: monospace;
+}
+
+.potvrdi{
+    margin: 10px;
+    border-radius: 8px;
+    border: 2px solid red;
+    transition-duration: 0.4s;
+    font-family: monospace;
+}
+
+.potvrdi:hover {
+    color: rgb(196, 74, 74);
+    border: 4px double red;
+}
+
+.prati{
+    text-decoration-line: none;
+    color: red;
+}
